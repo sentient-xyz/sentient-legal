@@ -1,0 +1,1 @@
+Sentient Chat can make mistakes, and its output should not be considered actionable advice.
